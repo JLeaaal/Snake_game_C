@@ -1,0 +1,3 @@
+hosoyiri;2180
+julia;730
+teste;480
