@@ -1,2 +1,0 @@
-julia;220
-tahiana;50
